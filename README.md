@@ -2,6 +2,8 @@
 - 🔭 I’m currently working on IT Support/Sysadmin/Cloud 
 - 🌱 I’m currently learning Devops Culture
 - 😄 Pronouns: He/Him
+- 🏆 AWS-SAA
+- 🏆 OCI Foundations
 
 <div align="center">
   <a href="https://github.com/thethgomes">
